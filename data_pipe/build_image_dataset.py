@@ -125,7 +125,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--lag-order', type=int, default=5,
                         help='Number of trading days included in each image')
-    parser.add_argument('--start-time', type=str, default='2015-01-01',
+    parser.add_argument('--start-time', type=str, default='2014-01-01',
                         help='Dataset start time')
     parser.add_argument('--end-time', type=str, default='2023-05-10',
                         help='Dataset end time')
