@@ -1,6 +1,6 @@
 # TWMA
 
-This repository contains the pre-release code for the TWMA method as presented in our paper, "Enhancement of price trend trading strategies via image-induced importance weights." 
+This repository contains the pre-release code for the TWMA method as presented in our paper, "[Enhancement of price trend trading strategies via image-induced importance weights](https://www.arxiv.org/abs/2408.08483)." 
 
 ## Environment
 
@@ -42,7 +42,15 @@ python network/inference.py
 ## Cite
 If you find this code helpful, please consider citing our paper:
 ```
-To be completed.
+@misc{zhu2024enhancementpricetrendtrading,
+      title={Enhancement of price trend trading strategies via image-induced importance weights}, 
+      author={Zhoufan Zhu and Ke Zhu},
+      year={2024},
+      eprint={2408.08483},
+      archivePrefix={arXiv},
+      primaryClass={q-fin.PM},
+      url={https://arxiv.org/abs/2408.08483}, 
+}
 ```
 ## Contact
 Please feel free to raise an issue in this GitHub repository or email me if you have any questions or encounter any issues.
