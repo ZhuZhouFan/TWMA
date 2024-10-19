@@ -21,7 +21,7 @@ This repository contains the pre-release code for the TWMA method as presented i
 | `distributed_random_train.py`                 | Trains the ResNet "trader".                               |
 | `dataset.py`            | Defines the dataset structure based on PyTorch.                              |
 | `distributed_utils.py`             | Some useful functions for distributed learning.                                                 |
-| `inference_(F)TGCN.py`     | Obtains triple-I weights from the trained models.  
+| `inference.py`     | Obtains triple-I weights from the trained models.  
 
 ## Reproduce Part of Empirical Results
 
