@@ -4,7 +4,7 @@ This repository contains the pre-release code for the TWMA method as presented i
 
 ## Environment
 
-- **Main Settings:** Python 3.9 & Pytorch 1.11.0 & CUDA 10.2 & [torchcam 0.3.2](https://github.com/ZhugeKongan/TorchCAM)
+- **Main Settings:** Python 3.9 & Pytorch 1.11.0 & CUDA 10.2 & [torchcam 0.3.2](https://github.com/frgfm/torch-cam)
 - **Minor Settings:** To be completed.
 
 ## Data Pipeline
